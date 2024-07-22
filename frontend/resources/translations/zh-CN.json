@@ -1618,6 +1618,10 @@
         },
         "language": "语言"
       }
+    },
+    "syncState": {
+      "syncing": "同步中",
+      "synced": "已同步"
     }
   },
   "pageStyle": {
